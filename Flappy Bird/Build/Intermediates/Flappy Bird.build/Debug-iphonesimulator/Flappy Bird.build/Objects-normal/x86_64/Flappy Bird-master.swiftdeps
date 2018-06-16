@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "da718b5f4df3ec5f1442636d473a0f18"
+build_time: [1529120364, 797972000]
+inputs:
+  "/Users/oltiasllanaj/Documents/GitHub/Flappy-Bird-Game/Flappy Bird/Flappy Bird/GameScene.swift": [1502767725, 0]
+  "/Users/oltiasllanaj/Documents/GitHub/Flappy-Bird-Game/Flappy Bird/Flappy Bird/GameViewController.swift": [1502767725, 0]
+  "/Users/oltiasllanaj/Documents/GitHub/Flappy-Bird-Game/Flappy Bird/Flappy Bird/AppDelegate.swift": [1502767725, 0]
