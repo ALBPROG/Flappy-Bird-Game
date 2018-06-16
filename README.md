@@ -1,6 +1,6 @@
 # Flappy-Bird-Game
 
-This game is a clone created from me for the purpose to practice more in Swift 2.
+This game was created using Swift 2. Flappy bird was a very popular game that was released May 24, 2013.
 
 To create the game I used Xcode 7 and Swift 2
 
